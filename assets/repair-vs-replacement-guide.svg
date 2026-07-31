@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">Windshield repair versus replacement decision illustration</title><desc id="desc">A visual comparison of small repairable damage and replacement warning signs.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eff8ff"/><stop offset="1" stop-color="#fff8e8"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-opacity=".13"/></filter></defs>
+<rect width="1200" height="760" rx="44" fill="url(#bg)"/>
+<g filter="url(#s)"><rect x="70" y="80" width="500" height="600" rx="32" fill="#fff"/><rect x="630" y="80" width="500" height="600" rx="32" fill="#fff"/></g>
+<rect x="105" y="118" width="180" height="46" rx="23" fill="#e5f6ed"/><text x="195" y="149" text-anchor="middle" font-family="Arial" font-weight="700" font-size="23" fill="#167247">REPAIR MAY WORK</text>
+<rect x="665" y="118" width="240" height="46" rx="23" fill="#fff0ed"/><text x="785" y="149" text-anchor="middle" font-family="Arial" font-weight="700" font-size="23" fill="#b42318">REPLACE / INSPECT</text>
+<g transform="translate(150 205)"><rect width="340" height="245" rx="28" fill="#d9f1ff" stroke="#8ec7e6" stroke-width="6"/><circle cx="170" cy="120" r="37" fill="none" stroke="#4f86a5" stroke-width="8"/><path d="M170 83v-33m0 107v34m-37-71H98m109 0h35m-46-27l24-24m-76 76l-24 24m0-100l24 24m52 52l24 24" stroke="#4f86a5" stroke-width="7" stroke-linecap="round"/></g>
+<text x="320" y="500" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#102a43">Small, clean, stable chip</text><text x="320" y="542" text-anchor="middle" font-family="Arial" font-size="21" fill="#526f86">Away from edge, camera and main view</text>
+<g transform="translate(710 205)"><rect width="340" height="245" rx="28" fill="#d9f1ff" stroke="#8ec7e6" stroke-width="6"/><path d="M235 25l-63 87 42 34-72 92" fill="none" stroke="#fff" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/><path d="M171 111l-57-20m100 55l71 11m-143 81l-52 12" stroke="#fff" stroke-width="10" stroke-linecap="round"/><path d="M12 80h52M8 120h70M18 160h42" stroke="#d44b42" stroke-width="11" stroke-linecap="round"/></g>
+<text x="880" y="500" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#102a43">Long, edge or spreading crack</text><text x="880" y="542" text-anchor="middle" font-family="Arial" font-size="21" fill="#526f86">Visibility, structure or camera concerns</text>
+<path d="M510 610h180" stroke="#0b7ee8" stroke-width="9" stroke-linecap="round"/><path d="M675 590l25 20-25 20" fill="none" stroke="#0b7ee8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="600" y="668" text-anchor="middle" font-family="Arial" font-size="22" fill="#526f86">A technician must confirm the final decision</text>
+</svg>
