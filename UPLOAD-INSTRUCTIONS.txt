@@ -1,0 +1,11 @@
+KANSAS CITY WINDSHIELD GUIDE - UPLOAD INSTRUCTIONS
+
+Upload all of these items to the root of the kansascitymissouri.github.io repository:
+
+index.html
+robots.txt
+sitemap.xml
+assets/ (keep the folder and every file inside it)
+
+Do not upload only index.html, because the page uses the image files inside assets.
+After committing, wait for GitHub Pages deployment and hard-refresh the live page.

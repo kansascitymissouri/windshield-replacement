@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /windshield-replacement/
+
+Sitemap: https://kansascitymissouri.github.io/windshield-replacement/sitemap.xml
